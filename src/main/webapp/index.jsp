@@ -4,7 +4,7 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>My Login Page | CodingNepal</title>
+    <title>Test Login Page | CodingNepal</title>
     <link rel="stylesheet" href="style.css" />
   </head>
   <body>
